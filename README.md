@@ -1,13 +1,10 @@
 # CS5044_InteractiveDataVisualization
 Authors - cx8
 
-
-## To run the visualisation
-
-# Link:
+## Link:
 https://cx8.host.cs.st-andrews.ac.uk//CS5044-P3-170024084/webpage/vis.html
 
-# Interaction:
+## Interaction:
 //Use slider to update data by year
 
 
