@@ -1,0 +1,115 @@
+
+
+@import 'https://fonts.googleapis.com/css?family=Suez+One&subset=latin-ext';
+
+html, body, #myVis {
+  height: 100%;
+  margin: 0;
+}
+
+
+.content {
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	
+}
+
+/*.axis path{*/
+  /*fill:none;*/
+  /*stroke:gray;*/
+
+/*}*/
+
+/*.axis{*/
+  /*font-size: 8pt;*/
+  /*font-family: sans-serif;*/
+
+/*}*/
+
+.axis path,
+.axis line {
+
+    font-size: 8pt;
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+    opacity: 0.5;
+}
+
+circle {
+    stroke: grey;
+    opacity: 0.5;
+
+}
+
+
+line:hover {
+
+    stroke-width: 15;
+
+}
+
+#year{
+    margin-left: 80px;
+    width:80%
+
+}
+
+
+
+
+.tick{
+  fill: gray;
+    opacity: 0.5;
+}
+
+
+#tooltip {
+    position: absolute;
+    display: none;
+    min-width: 80px;
+    height: auto;
+    background: none repeat scroll 0 0 #ffffff;
+    border: 1px solid #6F257F;
+    padding: 14px;
+    text-align: center;
+ }
+
+/*circle{*/
+  /*stroke: black;*/
+  /*stroke-width: 0.5px;*/
+
+  /*opacity: 0.6;*/
+/*}*/
+
+
+  /* Remove the navbar's default margin-bottom and rounded borders */
+  .navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+
+  /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+  .row.content {height: 450px}
+
+  /* Set gray background color and 100% height */
+  .sidenav {
+    padding-top: 20px;
+    background-color: #f1f1f1;
+    height: 100%;
+  }
+
+  /* Set black background color, white text and some padding */
+  footer {
+    background-color: #555;
+    color: white;
+    padding: 15px;
+  }
+
+  /* On small screens, set height to 'auto' for sidenav and grid */
+  @media screen and (max-width: 767px) {
+    .sidenav {
+      height: auto;
+      padding: 15px;
+    }
+    .row.content {height:auto;}
+  }

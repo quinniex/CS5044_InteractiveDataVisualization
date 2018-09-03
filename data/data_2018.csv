@@ -1,0 +1,32 @@
+﻿Age1,Race,Sex,State,Crime,Convicted,Exonerated,Sentence,Lost,Age2,id
+45,Black,Male,Michigan,Other Violent Felony,2015,2018,10 to 25 years,3,48,1
+23,Black,Male,New Jersey,Weapon Possession or Sale,2014,2018,15 years,4,27,2
+32,Caucasian,Male,California,Child Sex Abuse,1991,2018,16 years,27,59,3
+19,Black,Male,New York,Murder,1997,2018,24 1/3 years to life,21,40,4
+25,Black,Male,New York,Murder,1997,2018,24 years to life,21,46,5
+24,Black,Male,New York,Murder,1997,2018,25 years to life,21,45,6
+20,Hispanic,Male,New York,Murder,1997,2018,25 years to life,21,41,7
+18,Black,Male,California,Murder,2002,2018,25 years to Life,16,34,8
+22,Black,Male,Ohio,Murder,2003,2018,25 years to life,15,37,9
+28,Black,Male,California,Child Sex Abuse,1990,2018,27 years,28,56,10
+25,Caucasian,Male,Vermont,Assault,2016,2018,30 days,2,27,11
+19,Black,Male,Illinois,Murder,1991,2018,30 years,27,46,12
+17,Hispanic,Male,Illinois,Murder,1998,2018,35 years,20,37,13
+24,Caucasian,Female,Texas,Murder,2015,2018,40 years,3,27,14
+39,Caucasian,Male,Illinois,Murder,1997,2018,45 years,21,60,15
+20,Black,Male,New York,Murder,1995,2018,50 years to life,23,43,16
+19,Hispanic,Male,Illinois,Murder,1997,2018,55 years,21,40,17
+42,Black,Male,Connecticut,Murder,2001,2018,60 years,17,59,18
+26,Hispanic,Male,Texas,Drug Possession or Sale,2009,2018,7 months,9,35,19
+30,Caucasian,Male,New York,Robbery,2015,2018,7 years and 6 months,3,33,20
+37,Black,Male,New York,Murder,2015,2018,75 years to life,3,40,21
+22,Caucasian,Male,Georgia,Manslaughter,2015,2018,8 years,3,25,22
+19,Black,Male,Illinois,Murder,1990,2018,80 years,28,47,23
+22,Hispanic,Male,Illinois,Murder,1997,2018,90 years,21,43,24
+21,Caucasian,Male,Kentucky,Murder,1995,2018,Life,23,44,25
+22,Caucasian,Male,Kentucky,Murder,1995,2018,Life,23,45,26
+25,Black,Male,Michigan,Murder,1972,2018,Life without parole,46,71,27
+19,Black,Male,Louisiana,Sexual Assault,1980,2018,Life without parole,38,57,28
+35,Black,Female,Michigan,Murder,2000,2018,Life without parole,18,53,29
+41,Black,Male,Louisiana,Murder,2011,2018,Life without parole,7,48,30
+18,Black,Male,Virginia,Sexual Assault,1978,2018,Probation,40,58,31

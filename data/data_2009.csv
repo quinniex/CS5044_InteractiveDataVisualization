@@ -1,0 +1,95 @@
+﻿Age1,Race,Sex,State,Crime,Convicted,Exonerated,Sentence,Lost,Age2,id
+19,Black,Male,Florida,Child Sex Abuse,1974,2009,Life,35,54,1
+16,Black,Male,New York,Murder,1983,2009,20 to Life,26,42,2
+22,Black,Male,Tennessee,Sexual Assault,1978,2009,100 years,31,53,3
+26,Caucasian,Male,Virginia,Sexual Assault,1979,2009,20 years,30,56,4
+27,Caucasian,Male,Wisconsin,Murder,1981,2009,Life,28,55,5
+17,Black,Male,Indiana,Sexual Assault,1982,2009,35 years,27,44,6
+21,Hispanic,Male,California,Murder,1983,2009,Life,26,47,7
+30,Black,Male,District of Columbia,Murder,1982,2009,20 to Life,27,57,8
+22,Black,Male,Illinois,Sexual Assault,1984,2009,24 years,25,47,9
+28,Black,Male,Texas,Sexual Assault,1983,2009,Life,26,54,10
+26,Black,Male,Virginia,Sexual Assault,1982,2009,63 years,27,53,11
+22,Black,Male,Illinois,Murder,1986,2009,Life,23,45,12
+34,Black,Male,Ohio,Sexual Assault,1984,2009,15 to 25 years,25,59,13
+17,Caucasian,Male,California,Murder,1985,2009,16 to Life,24,41,14
+18,Caucasian,Male,Massachusetts,Child Sex Abuse,1985,2009,Life,24,42,15
+29,Black,Male,Illinois,Murder,1986,2009,Death,23,52,16
+31,Caucasian,Male,Texas,Child Sex Abuse,1987,2009,20 years,22,53,17
+20,Black,Male,Wisconsin,Murder,1985,2009,Life,24,44,18
+19,Caucasian,Male,New York,Murder,1989,2009,25 to Life,20,39,19
+24,Black,Male,Texas,Sexual Assault,1986,2009,25 years,23,47,20
+20,Caucasian,Male,Nebraska,Murder,1989,2009,10 years,20,40,21
+24,Hispanic,Female,Nebraska,Murder,1989,2009,10 years,20,44,22
+23,Caucasian,Male,Tennessee,Murder,1986,2009,Death,23,46,23
+26,Caucasian,Female,Nebraska,Murder,1989,2009,10 years,20,46,24
+21,Caucasian,Female,Nebraska,Murder,1989,2009,40 years,20,41,25
+19,Caucasian,Male,Texas,Murder,1999,2009,Death,10,29,26
+18,Caucasian,Male,Nebraska,Murder,1990,2009,50 years,19,37,27
+24,Black,Male,Texas,Sexual Assault,1987,2009,Life,22,46,28
+16,Caucasian,Male,Connecticut,Murder,1989,2009,50 years,20,36,29
+22,Black,Male,Illinois,Murder,1990,2009,Death,19,41,30
+29,Black,Male,Illinois,Murder,1991,2009,Life without parole,18,47,31
+31,Hispanic,Male,Connecticut,Murder,1990,2009,60 years,19,50,32
+30,Caucasian,Male,California,Sexual Assault,1989,2009,5 years,20,50,33
+31,Black,Male,North Carolina,Child Sex Abuse,1995,2009,Life,14,45,34
+21,Hispanic,Male,New York,Murder,1992,2009,23 to Life,17,38,35
+17,Caucasian,Male,Texas,Murder,2002,2009,Life,7,24,36
+17,Caucasian,Male,Texas,Murder,2001,2009,Death,8,25,37
+33,Black,Female,New York,Child Sex Abuse,1993,2009,25 years,16,49,38
+17,Caucasian,Male,Missouri,Murder,1994,2009,60 years,15,32,39
+32,Black,Male,California,Murder,1994,2009,Life without parole,15,47,40
+20,Caucasian,Male,Illinois,Murder,1995,2009,50 years,14,34,41
+21,Black,Male,Kentucky,Manslaughter,1995,2009,30 years,14,35,42
+20,Black,Male,Illinois,Murder,1997,2009,45 years,12,32,43
+19,Black,Male,Oklahoma,Murder,1995,2009,Death,14,33,44
+13,Hispanic,Male,Illinois,Murder,1994,2009,50 years,15,28,45
+19,Black,Male,Oklahoma,Murder,1997,2009,Death,12,31,46
+28,Caucasian,Male,New Jersey,Sexual Assault,1996,2009,20 years,13,41,47
+18,Black,Male,California,Murder,1994,2009,Life,15,33,48
+18,Black,Male,Texas,Child Sex Abuse,1995,2009,40 years,14,32,49
+17,Black,Male,Texas,Child Sex Abuse,1996,2009,Life,13,30,50
+21,Black,Male,Wisconsin,Murder,1996,2009,Life,13,34,51
+15,Black,Male,New York,Murder,1997,2009,25 to Life,12,27,52
+28,Black,Male,New York,Robbery,1999,2009,18 years,10,38,53
+22,Hispanic,Male,New York,Murder,1999,2009,25 to Life,10,32,54
+27,Black,Male,Texas,Murder,1997,2009,Life,12,39,55
+42,Black,Male,Texas,Murder,1997,2009,Life,12,54,56
+32,Caucasian,Male,Oregon,Murder,2000,2009,Life without parole,9,41,57
+34,Hispanic,Male,Puerto Rico,Murder,2000,2009,148 years,9,43,58
+20,Black,Male,Florida,Assault,1999,2009,Life,10,30,59
+36,Caucasian,Male,Fed-MO,Murder,2006,2009,Life without parole,3,39,60
+32,Black,Male,Texas,Robbery,1999,2009,50 years,10,42,61
+40,Caucasian,Male,Fed-CA,Tax Evasion/Fraud,2007,2009,Not sentenced,2,42,62
+24,Hispanic,Male,California,Child Sex Abuse,2000,2009,16 years to life,9,33,63
+24,Caucasian,Male,Alabama,Murder,2002,2009,Death,7,31,64
+35,Caucasian,Male,New York,Robbery,1999,2009,11 years,10,45,65
+36,Caucasian,Male,Texas,Sex Offender Registration,2001,2009,10 years,8,44,66
+25,Hispanic,Male,California,Attempted Murder,2002,2009,53 to Life,7,32,67
+24,Black,Male,Michigan,Attempted Murder,2001,2009,20 to 30 years,8,32,68
+33,Black,Male,Michigan,Attempted Murder,2001,2009,20 to 32 years,8,41,69
+24,Black,Male,Pennsylvania,Child Sex Abuse,2004,2009,16 to 37 years,5,29,70
+35,Black,Male,Fed-Military,Military Justice Offense,2002,2009,Fine,7,42,71
+38,Caucasian,Male,Wisconsin,Sexual Assault,2003,2009,12 years,6,44,72
+52,Caucasian,Male,Georgia,Murder,2005,2009,Life,4,56,73
+20,Caucasian,Male,Massachusetts,Possession of Stolen Property,2004,2009,2 years and 6 months,5,25,74
+22,Black,Male,Wisconsin,Weapon Possession or Sale,2004,2009,5 years and 9 months,5,27,75
+23,Black,Male,Wisconsin,Weapon Possession or Sale,2004,2009,4 to 6 years,5,28,76
+48,Caucasian,Male,Fed-CA,Perjury,2008,2009,Not sentenced,1,49,77
+53,Caucasian,Male,Fed-PA,Fraud,2003,2009,2 years and 6 months,6,59,78
+26,Black,Male,Washington,Robbery,2005,2009,17 years,4,30,79
+49,Asian,Male,California,Child Sex Abuse,2006,2009,14 years,3,52,80
+57,Caucasian,Male,Arizona,Murder,2006,2009,10 years,3,60,81
+26,Hispanic,Female,California,Murder,2005,2009,40 years to life,4,30,82
+30,Black,Female,Georgia,Murder,2005,2009,Life,4,34,83
+35,Caucasian,Male,Michigan,Murder,2006,2009,17 to 27 years,3,38,84
+28,Caucasian,Male,New York,Sexual Assault,2006,2009,20 years,3,31,85
+20,Hispanic,Male,Fed-NM,Drug Possession or Sale,2006,2009,5 years and 10 months,3,23,86
+21,Black,Male,Wisconsin,Child Sex Abuse,2007,2009,3 years,2,23,87
+36,Caucasian,Male,New York,Sexual Assault,2007,2009,Not sentenced,2,38,88
+28,Black,Male,Ohio,Child Sex Abuse,2008,2009,Life without parole,1,29,89
+41,Black,Male,Georgia,Robbery,2008,2009,4 years,1,42,90
+83,Caucasian,Male,Fed-DC,Official Misconduct,2008,2009,Not sentenced,1,84,91
+24,Caucasian,Male,Virginia,Child Sex Abuse,2008,2009,1 year,1,25,92
+45,Black,Female,Texas,Drug Possession or Sale,2008,2009,6 months,1,46,93
+45,Black,Female,Texas,Drug Possession or Sale,2009,2009,Probation,0,45,94

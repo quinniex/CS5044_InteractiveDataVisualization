@@ -1,0 +1,75 @@
+﻿Age1,Race,Sex,State,Crime,Convicted,Exonerated,Sentence,Lost,Age2,id
+17,Black,Male,Iowa,Murder,1978,2011,Life,33,50,1
+26,Black,Male,Virginia,Sexual Assault,1981,2011,16 years,30,56,2
+20,Black,Male,Texas,Robbery,1980,2011,75 years,31,51,3
+19,Black,Male,Mississippi,Murder,1980,2011,Life,31,50,4
+18,Black,Male,Illinois,Sexual Assault,1982,2011,60 years,29,47,5
+20,Black,Male,Louisiana,Sexual Assault,1982,2011,Life without parole,29,49,6
+37,Caucasian,Male,Texas,Murder,1983,2011,99 years,28,65,7
+18,Black,Male,Virginia,Sexual Assault,1984,2011,74 years,27,45,8
+28,Black,Male,Texas,Child Sex Abuse,1984,2011,Life,27,55,9
+19,Black,Male,Illinois,Murder,1989,2011,Life,22,41,10
+32,Caucasian,Male,Texas,Murder,1987,2011,Life,24,56,11
+37,Caucasian,Female,Ohio,Murder,1990,2011,Life,21,58,12
+30,Caucasian,Male,Texas,Child Sex Abuse,2000,2011,Probation,11,41,13
+23,Hispanic,Male,Illinois,Murder,1990,2011,80 years,21,44,14
+26,Hispanic,Male,New York,Murder,1993,2011,50 to life,18,44,15
+18,Black,Male,California,Murder,1994,2011,Life without parole,17,35,16
+20,Hispanic,Male,New York,Murder,1993,2011,50 to life,18,38,17
+32,Black,Male,Pennsylvania,Murder,1992,2011,Life,19,51,18
+23,Black,Male,California,Murder,1991,2011,27 to Life,20,43,19
+20,Other,Male,Hawaii,Sexual Assault,1992,2011,35 years,19,39,20
+14,Black,Male,Illinois,Murder,1997,2011,85 years,14,28,21
+16,Hispanic,Male,California,Murder,1992,2011,Life,19,35,22
+16,Black,Male,Illinois,Murder,1995,2011,80 years,16,32,23
+29,Hispanic,Male,New York,Murder,1993,2011,25 years to life,18,47,24
+41,Black,Male,New York,Child Sex Abuse,1993,2011,50 years,18,59,25
+16,Black,Male,Illinois,Murder,1994,2011,20 years,17,33,26
+14,Black,Male,Illinois,Murder,1997,2011,80 years,14,28,27
+14,Black,Male,Illinois,Murder,1994,2011,20 years,17,31,28
+42,Caucasian,Male,Texas,Child Sex Abuse,1992,2011,20 years,19,61,29
+25,Caucasian,Male,Texas,Child Sex Abuse,1993,2011,15 years,18,43,30
+42,Caucasian,Male,Tennessee,Murder,1994,2011,Death,17,59,31
+29,Black,Male,Florida,Sexual Assault,1993,2011,Life,18,47,32
+37,Caucasian,Male,Missouri,Murder,1996,2011,Life without parole,15,52,33
+19,Black,Male,California,Murder,1995,2011,Life without parole,16,35,34
+26,Black,Male,New York,Murder,1995,2011,25 to Life,16,42,35
+34,Black,Male,Kentucky,Murder,1998,2011,60 years,13,47,36
+31,Black,Male,Louisiana,Murder,1997,2011,Life,14,45,37
+25,Black,Male,Texas,Child Sex Abuse,1997,2011,5 years,14,39,38
+41,Caucasian,Male,Ohio,Murder,1998,2011,30 to life,13,54,39
+27,Caucasian,Male,Virginia,Murder,2000,2011,Life,11,38,40
+40,Caucasian,Male,Ohio,Manslaughter,1998,2011,50 years,13,53,41
+44,Caucasian,Female,New York,Child Sex Abuse,2002,2011,Probation,9,53,42
+24,Black,Male,Texas,Murder,2002,2011,Life,9,33,43
+36,Hispanic,Male,Texas,Drug Possession or Sale,2003,2011,Life,8,44,44
+38,Black,Male,Louisiana,Drug Possession or Sale,1998,2011,Life without parole,13,51,45
+42,Black,Male,Ohio,Murder,2000,2011,Life without parole,11,53,46
+18,Caucasian,Male,Texas,Drug Possession or Sale,1999,2011,10 years,12,30,47
+18,Black,Male,Georgia,Robbery,2000,2011,15 years,11,29,48
+34,Caucasian,Male,Pennsylvania,Sexual Assault,2001,2011,5 to 15 years,10,44,49
+20,Black,Male,North Carolina,Murder,2001,2011,12 to 15 years,10,30,50
+21,Black,Male,North Carolina,Murder,2002,2011,12 1/2 to 15 3/4 years,9,30,51
+55,Caucasian,Male,Fed-MA,Arson,2006,2011,15 years,5,60,52
+18,Black,Male,Nevada,Robbery,2003,2011,4 years,8,26,53
+32,Caucasian,Female,California,Fraud,2004,2011,Probation,7,39,54
+45,Hispanic,Male,Texas,Child Sex Abuse,2003,2011,40 years,8,53,55
+39,Black,Male,Pennsylvania,Sexual Assault,2003,2011,5 to 10 years,8,47,56
+35,Black,Male,Alabama,Child Sex Abuse,2007,2011,Life,4,39,57
+26,Black,Male,Pennsylvania,Child Sex Abuse,2005,2011,1 to 5 years,6,32,58
+44,Black,Male,Fed-MO,Drug Possession or Sale,2006,2011,25 years,5,49,59
+60,Caucasian,Male,New York,Fraud,2008,2011,90 days,3,63,60
+17,Black,Male,District of Columbia,Murder,2006,2011,42 years and 8 months,5,22,61
+27,Caucasian,Male,Minnesota,Murder,2006,2011,14 1/2 years,5,32,62
+40,Caucasian,Male,New York,Fraud,2008,2011,90 days,3,43,63
+26,Caucasian,Male,Fed-ND,Other Nonviolent Felony,2007,2011,19 months,4,30,64
+23,Caucasian,Male,Kansas,Sexual Assault,2006,2011,23 years,5,28,65
+19,Hispanic,Male,New York,Robbery,2007,2011,10 years,4,23,66
+32,Caucasian,Female,Iowa,Child Abuse,2007,2011,10 years,4,36,67
+22,Black,Male,New York,Child Sex Abuse,2007,2011,17 years,4,26,68
+21,Hispanic,Male,California,Child Sex Abuse,2008,2011,15 to Life,3,24,69
+40,Caucasian,Male,Michigan,Murder,2009,2011,Life,2,42,70
+24,Black,Male,Wisconsin,Assault,2010,2011,2 years,1,25,71
+34,Black,Male,Texas,Robbery,2010,2011,Life,1,35,72
+51,Caucasian,Male,Washington,Sex Offender Registration,2010,2011,3 years and 7 months,1,52,73
+31,Black,Female,Illinois,Assault,2010,2011,Probation,1,32,74

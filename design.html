@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>CS5044 Practical3</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
+
+
+
+
+</head>
+
+
+<body>
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+                <li ><a href="data.html">Data</a></li>
+                <li><a href="design.html">Design</a></li>
+                <li><a href="insights.html">Insights</a></li>
+
+                <li><a href="vis.html">Visualization</a></li>
+
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<div class="container-fluid text-center">
+    <div class="row content">
+        <div class="col-sm-2">
+
+        </div>
+        <div class="col-sm-8 text-left">
+            <h1>Design and Implementation</h1>
+            <p>The design is mostly inspired by the years of lost in the prison of each individual including how young they were convicted of a crime and how old they were finally cleared. To emphasize this period of time and show the two ages at the same time, two scatterplots were chosen to plot two ages at the same graph with a link between them to show the years. This idea was also inspired by two other visualisation works that share similar concepts. One is a graph showing the gender pay gap in different industries where the gap between male and female is the focus<a href="https://informationisbeautiful.net/visualizations/gender-pay-gap/">[2]</a>. Another one describes 40 scientists who were once treated as heresy and finally got proven right after a long time<a href="https://informationisbeautiful.net/visualizations/mavericks-and-heretics/">[3]</a>. Both of these works helped to put more thoughts and fine-tuned the design step by step.
+                As for the use of visual variables to encode all the data attributes, it mainly follows expressiveness and effectiveness principles. For example, in terms of expressiveness, circles of same size and colour are used to encode two ages, since they both represent the same person. A line of a certain width between two points is used and encoded with different colour hues to represent different races. Lines are all horizontal and can be easily compared between one another and projected to the X-axis which is age. This visualisation also has some interactive features which brought much more opportunities to explore the data. Firstly, there is a slider to slide between different year to have an overview of the density of the points, length of the lines, colours of the lines as well as any trend going during the last decade. Details of each individual will be shown when mouse hovers on each line. In addition, two selections can be used to partially view the data if users are specifically interested in one area.  Legend of race is also clickable to show the graph each item represents. Note that the dataset for 2018 is still being updated, it is not complete yet meaningful to observe the most-to-date data.
+
+                In terms of implementation, scatterplot with multiple series was used to plot two set of values of age. In order to load dataset one by one, a d3js library queue was used. Also, some animation was implemented to smoothly change view once selection is made.
+            </p>
+
+
+
+            <p>References:</p>
+
+            <ul>
+                <li > <a href="https://bl.ocks.org/mbostock/3183403">scatterplot with multiple series </a> </li>
+                <li > <a href="https://bl.ocks.org/martinjc/f2241a09bd18caad10fc7249ca5d7816">slider </a> </li>
+                <li > <a href="https://bl.ocks.org/alandunning/274bf248fd0f362d64674920e85c1eb7">tooltip </a> </li>
+                <li > <a href="http://bl.ocks.org/Ctuauden/52d057254665400f561ef73cb6e5841a">legend </a> </li>
+                <li > <a href="https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_temp_webpage&stacked=h">Bootstrap template </a> </li>
+
+
+            </ul>
+
+
+            <hr>
+
+        </div>
+
+        <div class="col-sm-2">
+        </div>
+
+
+
+    </div>
+</div>
+
+<!--<footer class="container-fluid text-center">-->
+<!--<p>Footer Text</p>-->
+<!--</footer>-->
+
+
+<script src="myVis.js"></script>
+
+</body>
+</html>

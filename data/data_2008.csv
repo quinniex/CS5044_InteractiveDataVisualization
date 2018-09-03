@@ -1,0 +1,69 @@
+﻿Age1,Race,Sex,State,Crime,Convicted,Exonerated,Sentence,Lost,Age2,id
+24,Black,Male,Massachusetts,Murder,1972,2008,Life without parole,36,60,1
+36,Caucasian,Male,Massachusetts,Murder,1990,2008,Life,18,54,2
+26,Black,Male,Texas,Murder,1981,2008,Life,27,53,3
+20,Black,Male,Texas,Sexual Assault,1981,2008,Life,27,47,4
+21,Caucasian,Male,Florida,Murder,1981,2008,Life,27,48,5
+26,Black,Male,Louisiana,Sexual Assault,1983,2008,Life without parole,25,51,6
+28,Black,Male,Illinois,Murder,1982,2008,Life,26,54,7
+22,Caucasian,Male,Texas,Sexual Assault,1982,2008,40 years,26,48,8
+21,Black,Male,Michigan,Sexual Assault,1982,2008,30 to 55 years,26,47,9
+21,Black,Male,Illinois,Murder,1985,2008,Life,23,44,10
+31,Black,Male,California,Murder,1984,2008,33 to Life,24,55,11
+22,Black,Male,Missouri,Murder,1985,2008,Life,23,45,12
+31,Caucasian,Male,California,Child Sex Abuse,1985,2008,31 years,23,54,13
+24,Black,Male,Texas,Sexual Assault,1985,2008,Life,23,47,14
+22,Caucasian,Male,Nebraska,Murder,1989,2008,Life,19,41,15
+39,Caucasian,Male,Illinois,Murder,1987,2008,Life,21,60,16
+28,Black,Male,North Carolina,Murder,1993,2008,Death,15,43,17
+15,Caucasian,Male,Colorado,Murder,1999,2008,Life,9,24,18
+22,Caucasian,Male,Maryland,Murder,1988,2008,Life,20,42,19
+17,Caucasian,Male,New York,Murder,1990,2008,50 to Life,18,35,20
+26,Black,Male,Mississippi,Murder,1992,2008,Life without parole,16,42,21
+34,Black,Male,Ohio,Child Sex Abuse,1991,2008,15 to Life,17,51,22
+33,Black,Male,Massachusetts,Child Sex Abuse,1991,2008,10 years,17,50,23
+21,Black,Male,Mississippi,Murder,1995,2008,Death,13,34,24
+24,Black,Male,North Carolina,Murder,1994,2008,Death,14,38,25
+47,Black,Male,California,Murder,1994,2008,Life without parole,14,61,26
+33,Black,Male,Mississippi,Sexual Assault,1993,2008,55 years,15,48,27
+20,Black,Male,Texas,Kidnapping,1992,2008,Life,16,36,28
+23,Caucasian,Male,Texas,Murder,1994,2008,Death,14,37,29
+31,Caucasian,Male,Montana,Child Sex Abuse,1996,2008,3 years,12,43,30
+30,Caucasian,Female,New York,Murder,1994,2008,25 years,14,44,31
+32,Black,Male,Texas,Sexual Assault,1995,2008,60 years,13,45,32
+28,Black,Male,Illinois,Child Sex Abuse,1996,2008,40 years,12,40,33
+34,Caucasian,Female,Wisconsin,Murder,1996,2008,18 years,12,46,34
+22,Caucasian,Male,Kentucky,Child Sex Abuse,2006,2008,7 years,2,24,35
+17,Black,Male,Michigan,Sexual Assault,1998,2008,25 to 40 years,10,27,36
+48,Hispanic,Male,Texas,Murder,1998,2008,Life,10,58,37
+16,Hispanic,Male,California,Murder,1998,2008,35 to Life,10,26,38
+22,Hispanic,Male,Texas,Murder,1998,2008,Life,10,32,39
+31,Hispanic,Male,North Dakota,Sexual Assault,1997,2008,4 years,11,42,40
+23,Caucasian,Male,Florida,Murder,1998,2008,50 years,10,33,41
+22,Black,Male,California,Murder,2000,2008,Life without parole,8,30,42
+22,Caucasian,Male,New York,Assault,1999,2008,7 to 14 years,9,31,43
+18,Caucasian,Male,New Mexico,Murder,2001,2008,Life,7,25,44
+14,Black,Male,North Carolina,Robbery,2001,2008,10 to 14 years,7,21,45
+30,Hispanic,Female,Fed-AZ,Robbery,2001,2008,14 years,7,37,46
+28,Caucasian,Male,Kentucky,Child Sex Abuse,2001,2008,20 years,7,35,47
+40,Black,Male,Illinois,Theft,2002,2008,9 years,6,46,48
+52,Caucasian,Female,Illinois,Theft,2006,2008,6 years and 7 months,2,54,49
+40,Black,Male,New Mexico,Child Sex Abuse,2003,2008,4 years,5,45,50
+37,Caucasian,Male,Oklahoma,Child Sex Abuse,2004,2008,16 years,4,41,51
+56,Caucasian,Male,Michigan,Child Sex Abuse,2005,2008,4 3/4 to 15 years,3,59,52
+45,Caucasian,Male,California,Dependent Adult Abuse,2004,2008,8 years,4,49,53
+32,Caucasian,Female,California,Murder,2007,2008,Life,1,33,54
+16,Caucasian,Male,Florida,Sexual Assault,2004,2008,10 years,4,20,55
+44,Caucasian,Male,New Hampshire,Sexual Assault,2004,2008,6 to 12 years,4,48,56
+21,Hispanic,Male,California,Robbery,2003,2008,12 years,5,26,57
+13,Caucasian,Male,Mississippi,Murder,2004,2008,Life,4,17,58
+37,Caucasian,Male,Minnesota,Child Sex Abuse,2006,2008,24 years,2,39,59
+18,Hispanic,Male,California,Weapon Possession or Sale,2005,2008,2 years,3,21,60
+35,Black,Male,Illinois,Sexual Assault,2006,2008,Not sentenced,2,37,61
+34,Black,Male,Fed-OH,Robbery,2005,2008,13 years,3,37,62
+31,Caucasian,Male,Michigan,Child Sex Abuse,2006,2008,Not sentenced,2,33,63
+22,Hispanic,Male,Puerto Rico,Murder,2007,2008,Life,1,23,64
+18,Black,Male,Virginia,Weapon Possession or Sale,2007,2008,5 years,1,19,65
+46,Black,Male,Tennessee,Child Sex Abuse,2006,2008,16 years,2,48,66
+23,Black,Male,Michigan,Assault,2008,2008,3 1/2 to 7 years,0,23,67
+42,Black,Male,New York,Drug Possession or Sale,2007,2008,Not sentenced,1,43,68

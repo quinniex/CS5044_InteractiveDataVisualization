@@ -1,0 +1,173 @@
+﻿Age1,Race,Sex,State,Crime,Convicted,Exonerated,Sentence,Lost,Age2,id
+18,Caucasian,Male,Illinois,Murder,2012,2016,Life,4,22,1
+29,Black,Male,New York,Murder,1964,2016,30 years to life,52,81,2
+26,Black,Male,New York,Murder,1981,2016,18 to life,35,61,3
+26,Caucasian,Male,Virginia,Murder,1983,2016,Life,33,59,4
+22,Caucasian,Male,California,Murder,1987,2016,26 years to life,29,51,5
+20,Black,Male,West Virginia,Sexual Assault,1990,2016,33 years to life,26,46,6
+20,Black,Male,North Carolina,Murder,1993,2016,20 years,23,43,7
+31,Black,Male,Colorado,Sexual Assault,1988,2016,48 years,28,59,8
+27,Hispanic,Male,Puerto Rico,Murder,1994,2016,Life,22,49,9
+22,Black,Male,New Jersey,Sexual Assault,1992,2016,8 years,24,46,10
+18,Hispanic,Male,Puerto Rico,Murder,1994,2016,Life,22,40,11
+20,Hispanic,Male,Puerto Rico,Murder,1994,2016,Life,22,42,12
+15,Caucasian,Male,North Carolina,Murder,1989,2016,Life,27,42,13
+22,Caucasian,Male,North Carolina,Sexual Assault,1991,2016,Life,25,47,14
+31,Caucasian,Male,Missouri,Child Sex Abuse,1992,2016,Probation,24,55,15
+26,Black,Male,Florida,Sexual Assault,1989,2016,Life,27,53,16
+37,Black,Male,Indiana,Sexual Assault,1991,2016,65 years,25,62,17
+25,Black,Male,Florida,Child Sex Abuse,1991,2016,Life,25,50,18
+34,Black,Male,North Carolina,Child Sex Abuse,1992,2016,Life,24,58,19
+33,Black,Female,New York,Manslaughter,1998,2016,5 to 15 years,18,51,20
+24,Black,Male,New York,Murder,1992,2016,25 years to life,24,48,21
+29,Black,Male,North Carolina,Murder,1995,2016,80 years,21,50,22
+35,Caucasian,Male,Pennsylvania,Murder,1992,2016,Life without parole,24,59,23
+20,Black,Male,Pennsylvania,Murder,1993,2016,Life without parole,23,43,24
+23,Black,Male,Indiana,Murder,1992,2016,60 years,24,47,25
+24,Black,Male,Wisconsin,Sexual Assault,1993,2016,Life,23,47,26
+25,Caucasian,Male,Texas,Child Sex Abuse,1993,2016,3 months,23,48,27
+31,Black,Male,Illinois,Murder,1994,2016,Life without parole,22,53,28
+25,Hispanic,Male,Illinois,Murder,1994,2016,55 years,22,47,29
+17,Black,Male,Louisiana,Murder,1994,2016,Life without parole,22,39,30
+43,Caucasian,Male,California,Murder,1997,2016,25 years to life,19,62,31
+20,Hispanic,Male,Illinois,Murder,1994,2016,55 years,22,42,32
+24,Black,Male,Illinois,Murder,1996,2016,Life without parole,20,44,33
+17,Black,Male,Oklahoma,Murder,1995,2016,Life,21,38,34
+18,Caucasian,Male,New York,Murder,1997,2016,25 years to life,19,37,35
+34,Caucasian,Male,Texas,Child Sex Abuse,1995,2016,Life,21,55,36
+21,Hispanic,Female,Texas,Child Sex Abuse,1998,2016,15 years,18,39,37
+22,Black,Male,New Jersey,Murder,1996,2016,60 years,20,42,38
+20,Hispanic,Female,Texas,Child Sex Abuse,1998,2016,37 1/2 years,18,38,39
+19,Hispanic,Female,Texas,Child Sex Abuse,1998,2016,15 years,18,37,40
+17,Black,Male,Oklahoma,Murder,1995,2016,Life,21,38,41
+19,Hispanic,Female,Texas,Child Sex Abuse,1998,2016,15 years,18,37,42
+16,Black,Male,Ohio,Murder,1996,2016,15 years to life,20,36,43
+17,Black,Male,Ohio,Murder,1996,2016,18 years to life,20,37,44
+17,Black,Male,Ohio,Murder,1996,2016,18 years to life,20,37,45
+50,Black,Male,California,Child Sex Abuse,1998,2016,27 years,18,68,46
+20,Hispanic,Male,New York,Murder,1998,2016,25 years to life,18,38,47
+36,Caucasian,Female,Michigan,Child Sex Abuse,2002,2016,25 to 50 years,14,50,48
+21,Black,Male,Illinois,Murder,1998,2016,55 years,18,39,49
+41,Caucasian,Male,Texas,Child Sex Abuse,1998,2016,10 years,18,59,50
+20,Caucasian,Male,Virginia,Murder,1999,2016,Life without parole,17,37,51
+19,Black,Male,New York,Murder,1998,2016,39 years to life,18,37,52
+19,Black,Male,New York,Murder,1999,2016,37 1/2 years to life,17,36,53
+31,Caucasian,Male,Montana,Murder,1998,2016,Life,18,49,54
+25,Caucasian,Male,Virginia,Murder,1999,2016,Life without parole,17,42,55
+24,Black,Male,Maryland,Murder,1999,2016,Life,17,41,56
+16,Black,Male,Oklahoma,Murder,2001,2016,Life without parole,15,31,57
+43,Black,Male,Illinois,Murder,2000,2016,Life without parole,16,59,58
+23,Caucasian,Male,Texas,Murder,1999,2016,Life,17,40,59
+20,Black,Male,Illinois,Murder,2006,2016,95 years,10,30,60
+19,Hispanic,Male,District of Columbia,Murder,2010,2016,60 years,6,25,61
+40,Caucasian,Male,New York,Murder,2007,2016,25 years to life,9,49,62
+23,Black,Male,Illinois,Murder,2003,2016,45 years,13,36,63
+16,Caucasian,Male,Colorado,Assault,2001,2016,Probation,15,31,64
+23,Caucasian,Female,Pennsylvania,Murder,2006,2016,15 to 30 years,10,33,65
+19,Caucasian,Male,Illinois,Murder,2013,2016,26 years,3,22,66
+18,Caucasian,Male,Virginia,Murder,2004,2016,23 years,12,30,67
+42,Caucasian,Male,Fed-NY,Fraud,2009,2016,2 years and 10 months,7,49,68
+19,Black,Male,Illinois,Weapon Possession or Sale,2004,2016,2 years,12,31,69
+35,Caucasian,Male,Iowa,Child Sex Abuse,2010,2016,25 years,6,41,70
+42,Caucasian,Male,Fed-NY,Tax Evasion/Fraud,2011,2016,3 1/2 years,5,47,71
+32,Black,Male,Illinois,Drug Possession or Sale,2006,2016,18 years,10,42,72
+33,Black,Male,Illinois,Drug Possession or Sale,2006,2016,4 years,10,43,73
+34,Black,Female,Illinois,Drug Possession or Sale,2006,2016,Probation,10,44,74
+35,Black,Male,New York,Murder,2010,2016,Life without parole,6,41,75
+34,Black,Male,Texas,Drug Possession or Sale,2005,2016,8 months,11,45,76
+27,Caucasian,Male,Georgia,Murder,2007,2016,Life,9,36,77
+48,Caucasian,Female,Texas,Drug Possession or Sale,2006,2016,30 days,10,58,78
+26,Black,Male,Texas,Drug Possession or Sale,2006,2016,120 days,10,36,79
+18,Black,Male,Pennsylvania,Attempted Murder,2007,2016,62 1/2 to 125 years,9,27,80
+29,Black,Male,Illinois,Drug Possession or Sale,2006,2016,10 to 22 years,10,39,81
+33,Black,Male,Illinois,Drug Possession or Sale,2006,2016,5 years,10,43,82
+32,Caucasian,Female,Fed-NY,Fraud,2010,2016,24 days,6,38,83
+28,Black,Male,Texas,Drug Possession or Sale,2007,2016,150 days,9,37,84
+19,Black,Male,Texas,Drug Possession or Sale,2007,2016,1 year and 3 months,9,28,85
+38,Caucasian,Female,Fed-NY,Fraud,2010,2016,Probation,6,44,86
+38,Caucasian,Female,Fed-NV,Conspiracy,2012,2016,15 months,4,42,87
+35,Caucasian,Male,New York,Arson,2008,2016,10 years,8,43,88
+39,Black,Male,Texas,Drug Possession or Sale,2007,2016,9 months,9,48,89
+41,Caucasian,Female,Texas,Assault,2009,2016,Probation,7,48,90
+48,Caucasian,Male,Massachusetts,Arson,2010,2016,2 years,6,54,91
+14,Black,Male,Michigan,Murder,2008,2016,39 to 90 years,8,22,92
+22,Black,Male,New York,Murder,2008,2016,25 years to life,8,30,93
+52,Black,Male,Texas,Drug Possession or Sale,2009,2016,90 days,7,59,94
+32,Caucasian,Male,Missouri,Murder,2011,2016,Life,5,37,95
+55,Hispanic,Male,Washington,Child Sex Abuse,2009,2016,6 3/4 years to life,7,62,96
+37,Black,Male,North Carolina,Child Sex Abuse,2009,2016,5 years to 6 and 3/4 years,7,44,97
+23,Black,Male,Texas,Drug Possession or Sale,2008,2016,6 months,8,31,98
+21,Black,Male,Pennsylvania,Attempted Murder,2013,2016,15 to 30 years,3,24,99
+27,Caucasian,Male,New Jersey,Manslaughter,2011,2016,30 years,5,32,100
+41,Black,Male,Texas,Drug Possession or Sale,2008,2016,6 months,8,49,101
+38,Black,Male,Texas,Drug Possession or Sale,2009,2016,4 months,7,45,102
+49,Black,Male,Texas,Drug Possession or Sale,2009,2016,6 months,7,56,103
+21,Black,Male,Fed-TN,Other Violent Felony,2012,2016,Not sentenced,4,25,104
+28,Black,Female,Texas,Drug Possession or Sale,2009,2016,90 days,7,35,105
+38,Black,Male,Texas,Drug Possession or Sale,2009,2016,8 months,7,45,106
+19,Asian,Male,Fed-TN,Other Violent Felony,2012,2016,Not sentenced,4,23,107
+47,Caucasian,Male,Massachusetts,Arson,2011,2016,8 to 10 years,5,52,108
+20,Black,Male,Texas,Drug Possession or Sale,2009,2016,Probation,7,27,109
+20,Black,Male,Texas,Drug Possession or Sale,2009,2016,6 months,7,27,110
+33,Black,Male,Texas,Drug Possession or Sale,2009,2016,90 days,7,40,111
+33,Black,Male,Texas,Drug Possession or Sale,2009,2016,6 months,7,40,112
+24,Black,Male,Texas,Drug Possession or Sale,2009,2016,30 days,7,31,113
+19,Black,Male,Fed-TN,Other Violent Felony,2012,2016,Not sentenced,4,23,114
+43,Caucasian,Female,Texas,Drug Possession or Sale,2010,2016,45 days,6,49,115
+36,Black,Male,Oregon,Drug Possession or Sale,2010,2016,Probation,6,42,116
+53,Black,Male,Texas,Drug Possession or Sale,2010,2016,90 days,6,59,117
+46,Caucasian,Male,Oregon,Drug Possession or Sale,2010,2016,Probation,6,52,118
+22,Black,Male,Illinois,Robbery,2011,2016,30 years,5,27,119
+36,Black,Male,New York,Child Sex Abuse,2011,2016,18 years,5,41,120
+47,Black,Male,Fed-IL,Weapon Possession or Sale,2013,2016,15 years,3,50,121
+46,Black,Male,New York,Drug Possession or Sale,2011,2016,4 years,5,51,122
+30,Black,Male,Pennsylvania,Murder,2012,2016,Life without parole,4,34,123
+32,Hispanic,Male,Massachusetts,Assault,2012,2016,5 years,4,36,124
+19,Black,Male,Texas,Drug Possession or Sale,2011,2016,2 years,5,24,125
+34,Caucasian,Male,New York,Child Sex Abuse,2013,2016,13 years,3,37,126
+54,Caucasian,Male,Oregon,Drug Possession or Sale,2012,2016,Probation,4,58,127
+40,Caucasian,Male,Oklahoma,Child Sex Abuse,2013,2016,13 years,3,43,128
+21,Caucasian,Male,Oregon,Drug Possession or Sale,2012,2016,Probation,4,25,129
+29,Black,Male,Michigan,Robbery,2013,2016,12 to 27 years,3,32,130
+31,Hispanic,Female,Texas,Drug Possession or Sale,2012,2016,Probation,4,35,131
+45,Caucasian,Male,Oregon,Drug Possession or Sale,2012,2016,Probation,4,49,132
+31,Caucasian,Male,Texas,Drug Possession or Sale,2013,2016,4 days,3,34,133
+32,Caucasian,Male,Fed-VA,Drug Possession or Sale,2014,2016,11 years and four months,2,34,134
+28,Hispanic,Male,California,Robbery,2014,2016,3 years,2,30,135
+42,Asian,Male,California,Other,2013,2016,60 days,3,45,136
+27,Hispanic,Male,Texas,Drug Possession or Sale,2013,2016,2 days,3,30,137
+32,Black,Male,North Carolina,Robbery,2014,2016,21 years,2,34,138
+42,Caucasian,Male,California,Assault,2014,2016,Not sentenced,2,44,139
+25,Black,Male,Texas,Drug Possession or Sale,2014,2016,3 months,2,27,140
+40,Black,Male,California,Other,2013,2016,20 days,3,43,141
+34,Black,Male,North Carolina,Robbery,2014,2016,10 years,2,36,142
+22,Black,Male,Michigan,Attempted Murder,2014,2016,17 to 32 years,2,24,143
+60,Black,Male,Texas,Drug Possession or Sale,2014,2016,30 days,2,62,144
+19,Caucasian,Male,Montana,Sexual Assault,2015,2016,Not sentenced,1,20,145
+29,Caucasian,Male,Texas,Drug Possession or Sale,2014,2016,15 days,2,31,146
+24,Black,Female,Texas,Drug Possession or Sale,2014,2016,60 days,2,26,147
+30,Hispanic,Male,California,Weapon Possession or Sale,2015,2016,1 year and 4 months,1,31,148
+17,Black,Male,Texas,Drug Possession or Sale,2014,2016,180 days,2,19,149
+21,Hispanic,Male,Texas,Weapon Possession or Sale,2015,2016,3 years,1,22,150
+30,Caucasian,Male,California,Other,2015,2016,25 days,1,31,151
+26,Hispanic,Male,California,Theft,2016,2016,116 days,0,26,152
+17,Hispanic,Male,Texas,Drug Possession or Sale,2015,2016,Probation,1,18,153
+33,Black,Male,Texas,Drug Possession or Sale,2015,2016,30 days,1,34,154
+33,Black,Male,Texas,Drug Possession or Sale,2016,2016,30 days,0,33,155
+21,Hispanic,Male,Texas,Drug Possession or Sale,2015,2016,52 days,1,22,156
+19,Hispanic,Male,Texas,Drug Possession or Sale,2015,2016,30 days,1,20,157
+19,Hispanic,Male,Texas,Drug Possession or Sale,2015,2016,10 days,1,20,158
+22,Black,Male,Texas,Drug Possession or Sale,2015,2016,15 days,1,23,159
+17,Black,Male,Texas,Drug Possession or Sale,2016,2016,Probation,0,17,160
+17,Hispanic,Female,Texas,Drug Possession or Sale,2015,2016,30 days,1,18,161
+37,Caucasian,Male,Texas,Drug Possession or Sale,2015,2016,30 days,1,38,162
+40,Caucasian,Male,Texas,Drug Possession or Sale,2016,2016,3 years,0,40,163
+47,Black,Male,Texas,Drug Possession or Sale,2015,2016,10 days,1,48,164
+21,Black,Male,Texas,Drug Possession or Sale,2015,2016,15 days,1,22,165
+17,Black,Male,Texas,Drug Possession or Sale,2015,2016,Probation,1,18,166
+43,Hispanic,Male,Texas,Drug Possession or Sale,2016,2016,45 days,0,43,167
+27,Black,Male,Texas,Drug Possession or Sale,2015,2016,6 days,1,28,168
+25,Black,Male,Texas,Drug Possession or Sale,2016,2016,30 days,0,25,169
+24,Black,Female,Texas,Drug Possession or Sale,2016,2016,10 days,0,24,170
+21,Black,Female,Texas,Drug Possession or Sale,2016,2016,12 days,0,21,171
+20,Caucasian,Female,Texas,Drug Possession or Sale,2016,2016,120 days,0,20,172
